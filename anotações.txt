@@ -1,0 +1,10 @@
+Diferença entre a tag img e background-image
+
+<img> => se faz sentindo para o usuario voce coloca a imagem com essa tag
+background-image => se for uma imagem decorativa(deixar bonita) pode utilizar essa propriedade
+
+
+Diferença entre a tag a e a tag button
+
+<a> => é uma ancora caso voce queira que quando o usuario clique e vá para outra página por exemplo
+<button> => quando queremos que um evento aconteça a partir do clique do mouse, utilizamos os botões
